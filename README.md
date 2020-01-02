@@ -1,6 +1,7 @@
 **Weather**
 --  
 基于 [高德开放平台](https://lbs.amap.com/api/webservice/guide/api/weatherinfo/) 的 PHP 天气信息组件。  
+[![Build Status](https://travis-ci.org/ainpy/weather.svg?branch=master)](https://travis-ci.org/ainpy/weather)  
 
 **安装**
 -
